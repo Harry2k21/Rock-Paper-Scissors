@@ -59,14 +59,14 @@ if(userScore == computerScore){
     alert("You Tied This Round!");
 }
 else if (userScore > computerScore){
-    alert("You Won This Round!")
+    alert("You Won This Round!");
 } else {
-    alert("You Lost This Round!")
+    alert("You Lost This Round!");
 }
 
 
-console.log("User Score: ", userScore)
-console.log("Computer Score: ", computerScore)
+console.log("User Score: ", userScore);
+console.log("Computer Score: ", computerScore);
 
 
-confirm("Thanks for Playing!")
+confirm("Thanks for Playing!");
